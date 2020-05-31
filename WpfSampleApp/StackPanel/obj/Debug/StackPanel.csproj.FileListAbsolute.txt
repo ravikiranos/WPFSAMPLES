@@ -1,0 +1,30 @@
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\bin\Debug\StackPanel.exe.config
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\bin\Debug\StackPanel.exe
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\bin\Debug\StackPanel.pdb
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\MainWindow.g.cs
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\App.g.cs
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\StackPanel_MarkupCompile.cache
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\StackPanel_MarkupCompile.lref
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\MainWindow.baml
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\StackPanel.g.resources
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\StackPanel.Properties.Resources.resources
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\StackPanel.csproj.GenerateResource.cache
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\StackPanel.csproj.CoreCompileInputs.cache
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\StackPanel.exe
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\StackPanel.pdb
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\StackPanel\obj\Debug\StackPanel.csprojAssemblyReference.cache
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\bin\Debug\StackPanel.exe.config
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\bin\Debug\StackPanel.exe
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\bin\Debug\StackPanel.pdb
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\StackPanel.csprojAssemblyReference.cache
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\MainWindow.g.cs
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\App.g.cs
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\StackPanel_MarkupCompile.cache
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\StackPanel_MarkupCompile.lref
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\MainWindow.baml
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\StackPanel.g.resources
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\StackPanel.Properties.Resources.resources
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\StackPanel.csproj.GenerateResource.cache
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\StackPanel.csproj.CoreCompileInputs.cache
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\StackPanel.exe
+D:\KIRAN\LET ME CALL\WPF\WpfSampleApp\StackPanel\obj\Debug\StackPanel.pdb

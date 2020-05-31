@@ -1,0 +1,17 @@
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\bin\Debug\WpfSampleApp.exe.config
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\bin\Debug\WpfSampleApp.exe
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\bin\Debug\WpfSampleApp.pdb
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\WpfSampleApp.csprojAssemblyReference.cache
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\MainWindow.g.cs
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\StackPanelLayout.g.cs
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\App.g.cs
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\WpfSampleApp_MarkupCompile.cache
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\WpfSampleApp_MarkupCompile.lref
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\MainWindow.baml
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\StackPanelLayout.baml
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\WpfSampleApp.g.resources
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\WpfSampleApp.Properties.Resources.resources
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\WpfSampleApp.csproj.GenerateResource.cache
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\WpfSampleApp.csproj.CoreCompileInputs.cache
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\WpfSampleApp.exe
+C:\Users\RaviKiran.Orugantisu\source\repos\WpfSampleApp\WpfSampleApp\obj\Debug\WpfSampleApp.pdb
